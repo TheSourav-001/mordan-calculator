@@ -108,7 +108,7 @@ liquid-glass-calendar/
 │       └── java/
 │           └── com/
 │               └── example/
-│                   └── calander/
+│                   └── calendar/
 │                       └── LiquidGlassCalendar.java
 ├── resources/
 │   └── calendar.css
@@ -153,7 +153,7 @@ Please ensure code follows consistent style and includes comments where necessar
 - Add event history, undo/redo, and recurring patterns.
 - Add more advanced search/filtering.
 - Add accessibility and localization for more languages.
-- Add mobile-friendly responsive design.
+- Add a mobile-friendly responsive design.
 
 ## License
 
@@ -161,10 +161,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-**Developer:** Your Name  
-**GitHub:** [your-github-username](https://github.com/your-github-username)  
-**Email:** your.email@example.com
+**Developer:** Sourav Dipto  
+**GitHub:** [TheSourav-001](https://github.com/TheSourav-001)  
+**Email:** shouravdiptoshillapu@gmail.com
 
 Thank you for using **Liquid Glass Calendar**!  
-Feel free to report issues or contribute to improve this project.
+Feel free to report issues or contribute to improving this project.
 
